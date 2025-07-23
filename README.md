@@ -32,7 +32,7 @@ Backend Developer | System Designer in the making | Generative AI Explorer.
 
 | Project                                                      | What It Actually Does                                       | Secret Sauce                                  |
 | ------------------------------------------------------------ | ----------------------------------------------------------- | --------------------------------------------- |
-| **[Prompt Muse](https://promptmuse.net/)** | Build, refine prompts to unleash the full potential of AI. | Craft powerful AI prompts ✨      |
+| **[Prompt Muse](https://promptmuse.net/)** | #1 Free AI Prompt Generator | Create powerful and perfect AI prompts ✨      |
 
 ---
 
