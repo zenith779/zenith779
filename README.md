@@ -33,6 +33,7 @@ Backend Developer | System Designer in the making | Generative AI Explorer.
 | Project                                                      | What It Actually Does                                       | Secret Sauce                                  |
 | ------------------------------------------------------------ | ----------------------------------------------------------- | --------------------------------------------- |
 | **[Prompt Muse](https://promptmuse.net/)** | #1 Free AI Prompt Generator | Create powerful and perfect AI prompts ✨      |
+| **[Grow a Garden Calculator](https://www.growagardencalculator.club)** | #1 Free Grow a Garden Calculator, Trade Analyzer and Mutations Guide | Calculate your Roblox Grow a Garden crop values with mutations, trading analysis, and profit optimization. ✨      |
 
 ---
 
