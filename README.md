@@ -32,6 +32,7 @@ Backend Developer | System Designer in the making | Generative AI Explorer.
 
 | Project                                                      | What It Actually Does                                       | Secret Sauce                                  |
 | ------------------------------------------------------------ | ----------------------------------------------------------- | --------------------------------------------- |
+| **[BookCoversLab](https://bookcoverslab.com)** | KDP cover pre-flight; One‑click bestseller styling; AI cover inspiration; Auto spine generation; Full-wrap with bleed; 300 DPI checks; Paperback PDF export; Free KDP template; Built‑in cover calculator | Integrates a KDP cover calculator with automated pre-flight checks and AI-driven styling to quickly produce professional covers ✨      |
 | **[Prompt Muse](https://promptmuse.net/)** | #1 Free AI Prompt Generator | Create powerful and perfect AI prompts ✨      |
 | **[Grow a Garden Calculator](https://www.growagardencalculator.club)** | #1 Free Grow a Garden Calculator, Trade Analyzer and Mutations Guide | Calculate your Roblox Grow a Garden crop values with mutations, trading analysis, and profit optimization. ✨      |
 
